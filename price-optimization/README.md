@@ -24,4 +24,5 @@ Optimize product pricing to maximize profit based on historical sales data.
 - `data/` – Sample dataset
 
 ## 🔗 Links
+- [Live Dashboard / Notebook Link](#)
 - [Back to Portfolio](../README.md)
