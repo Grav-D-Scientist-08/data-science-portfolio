@@ -21,7 +21,7 @@ Optimize product pricing to maximize profit based on historical sales data.
 
 - ## 📁 Files
 
-– Sample dataset
+– Dataset
 
 [retail_price.csv](https://github.com/user-attachments/files/19761879/retail_price.csv)
 
