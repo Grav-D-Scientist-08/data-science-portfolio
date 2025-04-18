@@ -18,7 +18,7 @@ Python | Pandas | NumPy | SQL | Scikit-learn | Power BI | Git | EDA | ML Modelin
 | [Price Optimization](https://github.com/Grav-D-Scientist-08/Project_1) | Predicted best pricing strategy to boost revenue | Python, ML |
 | [Sale Forecast]([./customer-segmentation](https://github.com/Grav-D-Scientist-08/Sale_forecast)) | Clustered users based on buying behavior | Python, KMeans |
 | [Sales Dashboard]("[C:\Users\gaura\Downloads\Global Super Store - 2016.pbix](https://github.com/Grav-D-Scientist-08/data-science-portfolio/tree/main/sales-dashboard)") | Interactive dashboard to analyze KPIs | Power BI |
-| [Zamoto Dashboard]("C:\Users\gaura\Downloads\Zomato Desktop.pbix") | Interactive dashboard to analyze KPIs | Power BI |
+| [Zamoto Dashboard]("C:\Users\gaura\Downloads\Zomato Desktop.pbix"](https://github.com/Grav-D-Scientist-08/data-science-portfolio/tree/main/zomato-dashboard)) | Interactive dashboard to analyze KPIs | Power BI |
 | [blinkit Dashboard]("C:\Users\gaura\Downloads\blinkit.pbix") | Interactive dashboard to analyze KPIs | Power BI |
 | [virat kohil hundred Dashboard]("C:\Users\gaura\Downloads\Virat Kohli Hundreds Analysis.pbix") | Interactive dashboard to analyze KPIs | Power BI |
 ---
