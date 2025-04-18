@@ -22,8 +22,9 @@ Power BI dashboard to analyze fast grocery delivery trends, customer behavior, a
 
 
 ## 📷 Preview
-![Dashboard Screenshot]((https://github.com/user-attachments/assets/5d7f4842-82d9-447d-bc3b-1c16c816518e)
-ng./blinkit-preview.png)
+![Screenshot 2025-03-03 162443](https://github.com/user-attachments/assets/bf826704-24e1-4302-8f54-b204642dedaf)
+
+![Dashboard Screenshot]
 
 ## 🚀 How to Run
 1. Download `"C:\Users\gaura\Downloads\blinkit.pbix"` file
