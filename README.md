@@ -20,7 +20,7 @@ Python | Pandas | NumPy | SQL | Scikit-learn | Power BI | Git | EDA | ML Modelin
 | [Sales Dashboard]("[C:\Users\gaura\Downloads\Global Super Store - 2016.pbix](https://github.com/Grav-D-Scientist-08/data-science-portfolio/tree/main/sales-dashboard)") | Interactive dashboard to analyze KPIs | Power BI |
 | [Zamoto Dashboard]("C:\Users\gaura\Downloads\Zomato Desktop.pbix"](https://github.com/Grav-D-Scientist-08/data-science-portfolio/tree/main/zomato-dashboard)) | Interactive dashboard to analyze KPIs | Power BI |
 | [blinkit Dashboard][("C:\Users\gaura\Downloads\blinkit.pbix")](https://github.com/Grav-D-Scientist-08/data-science-portfolio/blob/main/blinkit-dashboard/README.md) | Interactive dashboard to analyze KPIs | Power BI |
-| [virat kohil hundred Dashboard]("C:\Users\gaura\Downloads\Virat Kohli Hundreds Analysis.pbix") | Interactive dashboard to analyze KPIs | Power BI |
+| [virat kohil hundred Dashboard]("[C:\Users\gaura\Downloads\Virat Kohli Hundreds Analysis.pbix")](https://github.com/Grav-D-Scientist-08/data-science-portfolio/tree/main/blinkit-dashboard) | Interactive dashboard to analyze KPIs | Power BI |
 ---
 
 ## 📫 Connect With Me
